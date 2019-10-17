@@ -1,0 +1,1 @@
+"./main.obj" "../G2_Button_Blink/Debug/main.obj" "./G2_Button_Blink/main.obj" "../lnk_msp430fr6989.cmd" "../G2_Button_Blink/lnk_msp430g2553.cmd" -llibmpu_init.a -llibmath.a -llibc.a 

@@ -1,0 +1,1 @@
+"./main.obj" "../G2553/Debug/blink.obj" "./G2553/blink.obj" "../lnk_msp430fr6989.cmd" "../G2553/lnk_msp430g2553.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
